@@ -260,15 +260,7 @@ Flow и TypeScript - это инструменты для добавления �
 ## Binding
 - Understanding and the ability to explain how not to lose context, etc
 
-## SyntheticEvent
-- What is SyntheticEvent and what is it for
-- Supported events
-- What is the difference between event handling in 17 and previous versions of React?
 
-## Bubbling event in react
-- Working with bubbling in components
-- Understanding How Portal Bubbling Works (Basic understanding)
-- Bubbling through portals (good understanding)
 
 
 
